@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Umran Jameel
+ */
+
 import java.util.*;
 
 public class Exercise20 {
